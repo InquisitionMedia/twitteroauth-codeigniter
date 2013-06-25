@@ -1,0 +1,91 @@
+/* CSS Document */
+body {
+	background-color:#333;	
+	font-family:Arial, Helvetica, sans-serif;	
+}
+
+
+
+#twitter-feed {
+	width:258px;
+	margin:auto;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-top:60px;
+	padding:8px 10px 5px 10px;
+	border-radius:12px;
+	background-color:#FFF;
+	color:#333;
+	overflow:auto;
+}
+#twitter-feed h1 {
+	color:#5F5F5F;
+	margin:0px;
+	padding:9px 0px 9px 0px;
+	font-size:18px;
+	font-weight:lighter;	
+}
+.twitter-article, #loading-container {
+	width:258px;
+	border-top:1px dotted #CCC;
+	float:left;	
+	padding:8px 0px 8px 0px;
+}
+#loading-container {
+	padding:16px 0px 16px 0px;
+	text-align:center;	
+}
+.twitter-pic {
+	float:left;
+}
+
+.twitter-pic img {
+	float:left;
+	border-radius:7px;	
+	border:none;
+	
+}
+ img  {
+	 border:none;
+ }
+.twitter-text p {
+	margin:0px;
+	line-height:15px;	
+}
+.twitter-text a,  h1 a {
+	color: #00acee;
+	text-decoration: none;
+}
+.twitter-text a:hover,  h1 a:hover {
+	text-decoration: underline;
+	color: #00acee;
+}
+
+.twitter-text {
+	width:204px;
+	float:left;
+	font-size:11px;
+	padding-left: 11px;
+}
+
+.tweet-time {
+	font-size:10px;
+	color:#878787;
+	float:right;
+}
+.tweet-time a, .tweet-time a:hover {
+	color:#878787;
+}
+
+.backlink {
+	font-size:11px;
+	text-align:center;
+}
+.tweetprofilelink a {
+	color:#444;
+}
+.tweetprofilelink a:hover {
+	color:#444;
+}
+.backlink a {
+	color:#aaa;
+}
