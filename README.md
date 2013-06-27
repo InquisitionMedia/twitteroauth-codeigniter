@@ -7,7 +7,7 @@ This is basically a Codeigniter Implementation of the Twitter Auth library.
 
 Getting Started
 ===============
-1. Create your basic CodeIgniter Application (Make sure the basic app runs - this wil help in conducting tests).
+1. Create your basic CodeIgniter Application (Make sure the basic app runs - this will help in conducting tests).
 2. Copy and paste the js, css, images into your (in your CodeIgniter app) assets directory (we named ours "www" because we were bored).
 3. Go into "Applications" directory and copy the files from "Controllers", "Libraries", and "Views" into your CodeIgniter application.
 
@@ -20,10 +20,10 @@ We start at the twitter dev site.
 This process is straightforward and you should have a set of keys within a few minutes.
 
 1. Visit https://dev.twitter.com/apps/ and sign in using your Twitter username and password. This doesn’t have to be the username or password of the stream you need access to, just a Twitter account you control.
-2. Select "Create new application" and enter the application details.
- 2.1. The name and description can be anything you like really, but you can’t use "Twitter" in the name.
- 2.2. The website field can be your main website and doesn’t have to be the site where your Twitter feed or feeds are located.
- 2.3. Callback URL can be left blank.
+2. Select "Create new application" and enter the application details.<br/>
+ 2.1. The name and description can be anything you like really, but you can’t use "Twitter" in the name.<br/>
+ 2.2. The website field can be your main website and doesn’t have to be the site where your Twitter feed or feeds are located.<br/>
+ 2.3. Callback URL can be left blank.<br/>
 3. Enter the CAPTCHA info and click create.
 4. On the next details screen, click "create my access token". You may need to refresh the page after a few seconds if it doesn’t appear automatically.
 5. Make a note of the Consumer key, Consumer secret, Access token and Access token secret as highlighted below.
