@@ -14,7 +14,7 @@ Getting Started
 Usage
 =====
 
-We start at the twitter dev site.
+Twitter Application Configuration.
 ---------------------------------
 
 This process is straightforward and you should have a set of keys within a few minutes.
@@ -30,7 +30,7 @@ This process is straightforward and you should have a set of keys within a few m
 
 NB: The instructions listed above, have been copied from "http://www.webdevdoor.com/php/authenticating-twitter-feed-timeline-oauth/".
 
-Back to your CodeIgniter Application.
+CodeIgniter Application Configuration.
 -------------------------------------
 
 6. Use the credentials you've obrained (via creating your Twitter application) and supply in the following file "Application > Controllers > Test.php".
